@@ -1,5 +1,9 @@
-work.pdf
-work.log
-work.aux
-work.synctex.gz
+/*.pdf
+/*.log
+/*.out
+/*.aux
+/*.toc
+/*.run.xml
+/*.synctex.gz
+/*blx.bib
 .DS_Store
